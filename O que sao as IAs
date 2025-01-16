@@ -1,19 +1,15 @@
-
-### Template
-
-```markdown
-# O que são as IAs?
+# Podcast: O que são As IAs?🎙️
 
 ## 📒 Descrição
-Podcast sobre o básico das IAs
+Este podcast de 3 minutos explica de forma clara e objetiva o que são as Inteligêncas Artificiais
 
 ## 🤖 Tecnologias Utilizadas
-Chatgpt e ElevenLabs.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
 
 ## 🧐 Processo de Criação
-A partir do Chatgpt foi gerado um texto sobre o título e transcrito para ElevenLabs criar a voz.
+"ChatGPT" foi utilizado para desenvolver o roteiro. "ElevenLabs" ajudou a criar uma voz sintética 
 
 ## 🚀 Resultados
+De forma rápida e clara podemos descobrir o que são as IAs.
 
-
-```
